@@ -8,8 +8,8 @@ Esse projeto é uma aplicação simples de **lista de tarefas**, desenvolvida co
 
 ## ✨ Tecnologias Utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## 🧠 Funcionalidades
